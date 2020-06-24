@@ -289,7 +289,12 @@ video {
 @media (max-width: 481px) {
   .logo {
     width: 70%;
-    min-width: 230px;
+    min-width: 180px;
+  }
+
+  .github-header {
+    position: relative;
+    top: -10px;
   }
 
   .list-testmonials p {

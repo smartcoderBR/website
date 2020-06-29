@@ -193,7 +193,7 @@ input[type="email"] {
 .list {
   float: left;
   box-sizing: border-box;
-  width: 33.3%;
+  width: 20%;
 }
 .list li:first-child {
   color: rgba(24, 58, 96, 0.8);
@@ -340,13 +340,14 @@ video {
     width: 100%;
     border-bottom: 1px rgba(24, 58, 96, 1) solid;
     margin-bottom: 1em;
+    padding-bottom: 1em;
   }
 
   .box-footer {
+    padding-bottom: 1em;
     .col-footer {
       width: 100%;
       float: none;
-      padding-bottom: 1em;
     }
   }
 }

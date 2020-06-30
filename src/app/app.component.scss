@@ -289,6 +289,10 @@ video {
 }
 
 @media (max-width: 481px) {
+  .call-to-action {
+    display: block;
+  }
+
   .logo {
     width: 70%;
     min-width: 180px;
